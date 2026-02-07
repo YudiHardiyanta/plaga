@@ -54,15 +54,13 @@ export default defineConfig({
                 'resources/images/client/05.jpg',
                 'resources/images/client/06.jpg',
                 'resources/images/client/07.jpg',
-                'resources/images/client/08.jpg',
-                'resources/images/client/09.jpg',
-                'resources/images/client/10.jpg',   
+                'resources/images/client/08.jpg',   
 
                 'resources/images/blog/1.jpg',
                 'resources/images/blog/2.jpg',
                 'resources/images/blog/3.jpg',
                 'resources/images/blog/4.jpg',
-                
+
                 //end resource
             
             ],
