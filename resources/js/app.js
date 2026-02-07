@@ -18,7 +18,9 @@
  *     06.  ToolTip              *
  ================================*/
 
+import feather from 'feather-icons';
 
+feather.replace();
 window.addEventListener('load', fn, false)
 
 //  window.onload = function loader() {
