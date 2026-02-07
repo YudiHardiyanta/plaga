@@ -13,7 +13,7 @@ export default defineConfig({
 	            "resources/css/tobii.min.css",    
                 "resources/css/materialdesignicons.min.css",       
 	            // Custom  Css
-	            "resources/style.min.css",
+	            "resources/css/style.min.css",
                 //end css web
 
                 //Js web
