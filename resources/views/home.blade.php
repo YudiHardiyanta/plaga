@@ -75,7 +75,7 @@
         <div class="swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide d-flex align-items-center overflow-hidden">
-                    <div class="slide-inner slide-bg-image d-flex align-items-center" style="background: center center;" data-background="{{ Vite::asset('resources/images/bg/pelaga1.webp') }}">
+                    <div class="slide-inner slide-bg-image d-flex align-items-center" style="background: center center; background-image:url('{{ Vite::asset('resources/images/bg/pelaga1.webp') }}')" data-background="{{ Vite::asset('resources/images/bg/pelaga1.webp') }}">
                         <div class="bg-overlay"></div>
                         <div class="container">
                             <div class="row justify-content-center">
@@ -90,7 +90,7 @@
                 </div> <!-- end swiper-slide -->
 
                 <div class="swiper-slide d-flex align-items-center overflow-hidden">
-                    <div class="slide-inner slide-bg-image d-flex align-items-center" style="background: center center;" data-background="{{ Vite::asset('resources/images/bg/pelaga2.webp') }}">
+                    <div class="slide-inner slide-bg-image d-flex align-items-center" style="background: center center; background-image:url('{{ Vite::asset('resources/images/bg/pelaga2.webp') }}')" data-background="{{ Vite::asset('resources/images/bg/pelaga2.webp') }}">
                         <div class="bg-overlay"></div>
                         <div class="container">
                             <div class="row justify-content-center">
@@ -106,7 +106,7 @@
                 </div> <!-- end swiper-slide -->
 
                 <div class="swiper-slide d-flex align-items-center overflow-hidden">
-                    <div class="slide-inner slide-bg-image d-flex align-items-center" style="background: center center;" data-background="{{ Vite::asset('resources/images/bg/pelaga3.webp') }}">
+                    <div class="slide-inner slide-bg-image d-flex align-items-center" style="background: center center; background-image:url('{{ Vite::asset('resources/images/bg/pelaga3.webp') }}')" data-background="{{ Vite::asset('resources/images/bg/pelaga3.webp') }}">
                         <div class="bg-overlay"></div>
                         <div class="container">
                             <div class="row justify-content-center">
