@@ -14,12 +14,16 @@
     <!-- favicon -->
     <link href="{{ Vite::asset('resources/images/favicon.ico') }}" rel="shortcut icon">
     <!-- Bootstrap core CSS -->
+    
     @vite([
-    'resources/css/bootstrap.min.css',
+            'resources/css/bootstrap.min.css',
+            'resources/css/materialdesignicons.min.css',
+            'resources/css/style.min.css',
+    ])
+    <!-- Tambahan CSS -->
+    @vite([
     'resources/css/swiper.min.css',
     'resources/css/tobii.min.css',
-    'resources/css/materialdesignicons.min.css',
-    'resources/css/style.min.css',
     ])
 </head>
 
@@ -637,17 +641,18 @@
             <a href="javascript: void(0);" class="settings bg-white shadow d-block"><i class="mdi mdi-cog ms-1 mdi-24px position-absolute mdi-spin text-primary"></i></a>
         </div>
     </div>
-
     @vite([
-    "resources/js/bootstrap.bundle.min.js",
+            "resources/js/bootstrap.bundle.min.js",
+            "resources/js/feather.min.js",
+            "resources/js/plugins.init.js",
+            "resources/js/app.js",
+    ])
+    <!-- Tambahan -->
+    @vite([
     "resources/js/swiper.min.js",
     "resources/js/tobii.min.js",
     "resources/js/contact.js",
     "resources/js/gumshoe.js",
-    "resources/js/feather.min.js",
-
-    "resources/js/plugins.init.js",
-    "resources/js/app.js",
     ])
 </body>
 
