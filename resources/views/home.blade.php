@@ -641,18 +641,16 @@
             <a href="javascript: void(0);" class="settings bg-white shadow d-block"><i class="mdi mdi-cog ms-1 mdi-24px position-absolute mdi-spin text-primary"></i></a>
         </div>
     </div>
+    
     @vite([
-            "resources/js/bootstrap.bundle.min.js",
-            "resources/js/feather.min.js",
-            "resources/js/plugins.init.js",
-            "resources/js/app.js",
-    ])
-    <!-- Tambahan -->
-    @vite([
-    "resources/js/swiper.min.js",
-    "resources/js/tobii.min.js",
-    "resources/js/contact.js",
-    "resources/js/gumshoe.js",
+        "resources/js/bootstrap.bundle.min.js",
+        "resources/js/swiper.min.js",
+        "resources/js/tobii.min.js",
+        "resources/js/contact.js",
+        "resources/js/gumshoe.js",
+        "resources/js/feather.min.js",
+        "resources/js/plugins.init.js",
+        "resources/js/app.js",
     ])
 </body>
 
