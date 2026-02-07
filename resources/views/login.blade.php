@@ -47,7 +47,7 @@
                                     <div class="title-heading my-lg-auto">
                                         <div class="card login-page border-0" style="z-index: 1">
                                             <div class="card-body p-0">
-                                                <h4 class="card-title">Login</h4>
+                                                <h4 class="card-title">Masuk Sistem</h4>
                                                 <form class="login-form mt-4">
                                                     <div class="row">
                                                         <div class="col-lg-12">
