@@ -59,7 +59,6 @@ export default defineConfig({
                 'resources/images/blog/1.jpg',
                 'resources/images/blog/2.jpg',
                 'resources/images/blog/3.jpg',
-                'resources/images/blog/4.jpg',
 
                 //end resource
             
