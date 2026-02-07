@@ -61,7 +61,7 @@
                 </ul>
 
                 <ul class="list-inline menu-social mb-0 ps-lg-4 ms-2">
-                    <li class="list-inline-item"><a href="auth-login.html" class="btn btn-primary">Masuk</a></li>
+                    <li class="list-inline-item"><a href="/login" class="btn btn-primary">Masuk</a></li>
                 </ul>
             </div>
             <!--end collapse-->
