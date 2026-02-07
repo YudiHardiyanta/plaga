@@ -35,6 +35,34 @@ export default defineConfig({
                 'resources/images/bg/pelaga1.webp',
                 'resources/images/bg/pelaga2.webp',
                 'resources/images/bg/pelaga3.webp',
+                'resources/images/logo-light.png',
+                'resources/images/logo-dark.png',
+
+
+
+                'resources/images/portfolio/1.jpg',
+                'resources/images/portfolio/2.jpg',
+                'resources/images/portfolio/3.jpg',
+                'resources/images/portfolio/4.jpg',
+                'resources/images/portfolio/5.jpg', 
+
+
+                'resources/images/client/01.jpg',
+                'resources/images/client/02.jpg',
+                'resources/images/client/03.jpg',
+                'resources/images/client/04.jpg',
+                'resources/images/client/05.jpg',
+                'resources/images/client/06.jpg',
+                'resources/images/client/07.jpg',
+                'resources/images/client/08.jpg',
+                'resources/images/client/09.jpg',
+                'resources/images/client/10.jpg',   
+
+                'resources/images/blog/1.jpg',
+                'resources/images/blog/2.jpg',
+                'resources/images/blog/3.jpg',
+                'resources/images/blog/4.jpg',
+                
                 //end resource
             
             ],
