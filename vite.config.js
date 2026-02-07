@@ -27,7 +27,17 @@ export default defineConfig({
 	            "resources/js/plugins.init.js",
 	            "resources/js/app.js",
                 //end Js we
-                'resources/js/app.js'],
+                'resources/js/app.js',
+            
+            
+                //resource
+                'resources/images/favicon.ico',
+                'resources/images/bg/pelaga1.webp',
+                'resources/images/bg/pelaga2.webp',
+                'resources/images/bg/pelaga3.webp',
+                //end resource
+            
+            ],
             refresh: true,
         }),
         tailwindcss(),

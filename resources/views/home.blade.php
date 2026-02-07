@@ -12,7 +12,7 @@
     <meta name="email" content="support@shreethemes.in" />
     <meta name="version" content="1.2.0" />
     <!-- favicon -->
-    
+    <link href="{{ Vite::asset('resources/images/favicon.ico') }}" rel="shortcut icon">
     <!-- Bootstrap core CSS -->
     
     @vite([
