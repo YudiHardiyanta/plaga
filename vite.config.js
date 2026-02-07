@@ -69,8 +69,6 @@ export default defineConfig({
                 'resources/images/portfolio/6.jpg',
                 'resources/images/portfolio/7.jpg',
                 'resources/images/portfolio/8.jpg',
-                'resources/images/portfolio/9.jpg',
-                'resources/images/portfolio/10.jpg',
                 'resources/images/portfolio/11.jpg',
                 'resources/images/portfolio/12.jpg',
                 'resources/images/portfolio/13.jpg',
