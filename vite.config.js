@@ -78,6 +78,9 @@ export default defineConfig({
                 'resources/images/portfolio/17.jpg',
                 'resources/images/portfolio/18.jpg',
                 'resources/images/portfolio/19.jpg',
+
+
+                'resources/images/logo-icon.png',
                 //end resource
             
             ],
