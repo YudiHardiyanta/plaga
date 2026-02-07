@@ -19,6 +19,7 @@
  ================================*/
 
 import feather from 'feather-icons';
+import Gumshoe from 'gumshoejs';
 
 feather.replace();
 window.addEventListener('load', fn, false)
